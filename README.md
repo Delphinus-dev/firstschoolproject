@@ -11,4 +11,4 @@ https://github.com/Delphinus-dev/new_wild_circus (it's not finished yet)
 * Clone this project
 #### Working
 * Copy db.php.dist to db.php and enter your credentials for the database
-* Use a tool like PhpMyAdmin to create the content of the database using the content of BDDassoc
+* [the following file is not complete yet, my apologies : ] Use a tool like PhpMyAdmin to upload BDDassoc.sql
